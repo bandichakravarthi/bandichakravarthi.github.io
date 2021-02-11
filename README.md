@@ -16,3 +16,4 @@ completed 10th class in sasi eng.medm.school in year 2018;completed intermediate
 -Attend 2 days training program on source code Management from Git & Github
 **Date of Birth:25-06-2001
 **village details: ramannagudem;tadeapalligudem mandalam
+** Hobbies:Interested in Cricket
